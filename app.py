@@ -1,4 +1,4 @@
-# Solicita o valor da compra do usuário
+# Solicita o valor da compra do usuário.
 valor_compra = float(input(" Digite o valor da compra:"))
 #verifica se a compra é menor que R$ 200.
 if valor_compra < 200:
